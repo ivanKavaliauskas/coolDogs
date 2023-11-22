@@ -1,0 +1,20 @@
+body
+{
+	 background-image: url("../../assets/img/hearts.png");	
+	 background-repeat: repeat;
+}
+
+h1
+{
+	font-size: 6em;
+	text-align: center;
+	color: #560a74;
+}
+
+.dog-img {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: pink;
+}
